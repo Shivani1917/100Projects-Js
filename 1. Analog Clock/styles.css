@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+font-family: 'Lexend Deca', sans-serif;
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
+}
+
+.btn{
+    position: absolute;
+    bottom: 100px;
+    left: 50%;
+}
+
+.time{
+    font-size: 60px;
+}
+
+.date{
+    font-size: 30px;
+}
